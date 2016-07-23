@@ -1,6 +1,7 @@
 /*
   Ultrasonic.h - Library for HR-SC04 Ultrasonic Ranging Module.
-  Created by ITead studio. Alex, Apr 20, 2010. Especially HACKED for ANTLINE
+  Created by ITead studio. Alex, Apr 20, 2010. Especially HACKED for ANTLINE(codename) 
+   hacked for omnibot by Satyam Kumar and Prasanjeet Keshri
   iteadstudio.com
 */
 
