@@ -1,6 +1,6 @@
 /*
   Ultrasonic.cpp - Library for HC-SR04 Ultrasonic Ranging Module.library
-
+//edited by Prasanjeet keshri & hacked by Satyam Kumar
   Created by ITead studio. Apr 20, 2010.
   iteadstudio.com
 */
